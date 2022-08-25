@@ -1,6 +1,6 @@
 ## Hello, I'm Marcos Paulo, programming student and technology lover
  
-<div align="left">
+<div align="center">
   <a href="https://www.github.com/marcos-pa">
  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-pa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-pa&layout=compact&langs_count=16&theme=dark"/>
