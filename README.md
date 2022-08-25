@@ -1,6 +1,6 @@
 ## Hello, I'm Marcos Paulo, programming student and technology lover
  
-<div align="center">
+<div align="left">
   <a href="https://github.com/marcos-pa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-pa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-pa&layout=compact&langs_count=7&theme=dracula"/>
@@ -21,6 +21,10 @@
   <a href="https://instagram.com/marcps_paulo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mp6046969@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcospaulofs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <p align="center" >   
+  <img src="https://profile-counter.glitch.me/marcos-pa/count.svg" />  
+</p>
  
   ![Snake animation](https://github.com/marcos-pa/marcos-pa/blob/output/github-contribution-grid-snake.svg)
  
