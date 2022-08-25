@@ -1,15 +1,6 @@
-### Hi there, im Marcos Paulo
-
-
-- 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning Phython, DataSciece
-- 🤔 I’m looking for help with JS
-- 💬 Ask me about HTML,CSS
-- 😄 Pronouns: He/Him
+## Hello, I'm Marcos Paulo, programming student and technology lover
  
-##
-
-<div>
+<div align="center">
   <a href="https://github.com/marcos-pa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-pa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-pa&layout=compact&langs_count=7&theme=dracula"/>
